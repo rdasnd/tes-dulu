@@ -1,0 +1,6 @@
+- ini nomer satu
+- ini nomer dua
+- ini nomer tiga
+  * satu
+  * dua 
+  * tiga
