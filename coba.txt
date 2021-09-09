@@ -4,3 +4,6 @@
   * satu
   * dua 
   * tiga
+  
+1. apa?
+2. kenapa?
