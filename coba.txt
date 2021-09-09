@@ -9,5 +9,5 @@ a. gimana
 b. mengapa
  
 1. apa?
-2. kenapa?
-3. dimana?
+2. why?
+
