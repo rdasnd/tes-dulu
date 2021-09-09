@@ -5,9 +5,6 @@
   * dua 
   * tiga
  
-a. gimana
-b. mengapa
- 
 1. apa?
-2. why?
+2. mengapa?
 
