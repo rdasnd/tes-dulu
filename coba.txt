@@ -4,6 +4,9 @@
   * satu
   * dua 
   * tiga
-  
+ 
+a. gimana
+b. mengapa
+ 
 1. apa?
 2. kenapa?
